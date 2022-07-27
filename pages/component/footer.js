@@ -4,16 +4,14 @@ export default function footer() {
   return ( 
    
  <div className=" grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 justify-items-center gap-y-16 pt-20 lg:mx-32 ">
-        <div className="">
+        <div className="items-center flex-col flex">
           <div>
-          <Image src="/Vertobase-Logo-Files_Logo On Dark BG 1.png" width={186} height={86} />
+          <Image src="/2 1.png" width={186} height={86} />
           </div>
        
-          <p className="text-sm  mt-6 ">
-            ป้องกันการโจมตี DDoS <br />
-            การเข้ารหัสข้อมูลเต็มรูปแบบ
-            <br /> และการปฏิบัติตามมาตรฐาน <br /> PCI DSS เพื่อปกป้อง <br />
-            สินทรัพย์ของคุณ
+          <p className="text-sm  mt-6 md:mx-1 mx-28">
+          Lorem ipsum dolor sit amet consect adipisicing elit. Possimus
+              magnam voluptatum cupiditate veritatis in accusamus quisquam.
           </p>
         </div>
         <div className="">
@@ -26,8 +24,7 @@ export default function footer() {
             User Agreement
             <br /> <br />
             Transaction Fees
-            <br /> <br />
-            นโยบายการฟอกเงิน
+           
           </p>
         </div>
         <div className="">

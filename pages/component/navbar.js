@@ -5,15 +5,15 @@ import Bot from "./bot";
 import { Fragment } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import example from "../../assets/Vertobase-Logo-Files_Logo On Dark BG 1.png";
+import example from "../../public/2 1.png";
 
 const navigation = [
-  { name: "Home", href: "/", current: false },
-  { name: "About", href: "/about", current: false },
-  { name: "News", href: "/news", current: false },
-  { name: "bot", href: "/bot", current: false },
- 
-  { name: "Contact Us", href: "/contact", current: false },
+  { name: "History of the Lodge", href: "/History", current: false },
+  { name: "News and Events", href: "/News", current: false },
+  { name: "Agenda Activities", href: "/Agenda", current: false },
+  { name: "Humor Corner", href: "/Humor", current: false },
+  { name: "Masonic Visitors", href: "/Masonic", current: false },
+  { name: "Joining Freemasonry", href: "/Joining", current: false },
 ];
 
 function classNames(...classes) {
@@ -35,14 +35,14 @@ export default function Example() {
                       <Image
                         src={example}
                         alt="Alt text for the picture"
-                        width="230px"
-                        height="130px"
+                        width="110px"
+                        height="50px"
                       />
                     </a>
                   </Link>
                 </div>
               </div>
-              <div className="absolute inset-y-0 right-0 flex items-center sm:hidden">
+              <div className="absolute inset-y-0 right-0 flex items-center lg:hidden">
                 {/* Mobile menu button*/}
                 <Disclosure.Button className="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white">
                   {open ? (
@@ -53,8 +53,8 @@ export default function Example() {
                 </Disclosure.Button>
               </div>
 
-              <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-end">
-                <div className="hidden sm:block sm:ml-6">
+              <div className="flex-1 flex items-center justify-center lg:items-stretch lg:justify-end">
+                <div className="hidden lg:block lg:ml-6">
                   <div className="flex space-x-4">
                     {navigation.map((item) => (
                       <a
@@ -77,7 +77,7 @@ export default function Example() {
             </div>
           </div>
 
-          <Disclosure.Panel className="sm:hidden">
+          <Disclosure.Panel className="lg:hidden">
             <div className="px-2 pt-2 pb-3 space-y-1">
               {navigation.map((item) => (
                 <Disclosure.Button
