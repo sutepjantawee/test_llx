@@ -5,7 +5,7 @@ export default function footer() {
     <div className=" grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 justify-items-center gap-y-16 pt-20 lg:mx-32 ">
       <div className="items-center flex-col flex">
         <div>
-          <Image src="/llx-logo.png" width={100} height={110} />
+          <Image src="/llx-logo.png" width={100} height={95} />
         </div>
 
         <p className="text-sm  mt-6 md:mx-1 mx-28">

@@ -35,7 +35,7 @@ export default function Logo() {
                       <Image
                         src={logo}
                         alt="Alt text for the picture"
-                        width="60px"
+                        width="62px"
                         height="60px"
                       />
                     </a>
