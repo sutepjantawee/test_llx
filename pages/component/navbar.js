@@ -8,12 +8,12 @@ import Link from "next/link";
 import example from "../../public/2 1.png";
 
 const navigation = [
-  { name: "History of the Lodge", href: "/History", current: false },
-  { name: "News and Events", href: "/News", current: false },
-  { name: "Agenda Activities", href: "/Agenda", current: false },
-  { name: "Humor Corner", href: "/Humor", current: false },
-  { name: "Masonic Visitors", href: "/Masonic", current: false },
-  { name: "Joining Freemasonry", href: "/Joining", current: false },
+  { name: "History of the Lodge", href: "/history", current: false },
+  { name: "News and Events", href: "/news", current: false },
+  { name: "Agenda Activities", href: "/agenda", current: false },
+  { name: "Humor Corner", href: "/humor", current: false },
+  { name: "Masonic Visitors", href: "/masonic", current: false },
+  { name: "Joining Freemasonry", href: "/joining", current: false },
 ];
 
 function classNames(...classes) {

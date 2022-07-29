@@ -72,24 +72,11 @@ export default function Home() {
               }}
               weight="bold"
             >
-              Logo example
+              Lodge Lane Xang 1632 SC
               <br />
-              Lorem ipsum dolor sit 
-              
-              
             </Text>
 
             <div className="md:pt-16 pt-10">
-              <Button
-                auto
-                color="gradient"
-                shadow
-                onClick={handler}
-                size="lg"
-                className="z-0"
-              >
-                Sing in
-              </Button>
               <Modal
                 closeButton
                 blur
@@ -177,7 +164,6 @@ export default function Home() {
                 //   </Card>
                 // </div>
 
-                
                 <div className="w-full">
                   <Card isHoverable css={{ w: "100%", h: "400px" }}>
                     <Card.Header
@@ -195,7 +181,10 @@ export default function Home() {
                         <Text>Acme camera</Text>
                       </Col>
                     </Card.Header>
-                    <Card.Body css={{ p: 0,w: "100%" }} className="bg-card w-96 bg-cover bg-center">
+                    <Card.Body
+                      css={{ p: 0, w: "100%" }}
+                      className="bg-card w-96 bg-cover bg-center"
+                    >
                       {/* <Card.Image
                         src="https://nextui.org/images/card-example-6.jpeg"
                         width="100%"
@@ -203,8 +192,6 @@ export default function Home() {
                         objectFit="cover"
                         alt="Card example background"
                       /> */}
-                      
-                  
                     </Card.Body>
                     <Card.Footer
                       isBlurred
