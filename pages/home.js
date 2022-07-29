@@ -16,8 +16,6 @@ import {
 } from "@nextui-org/react";
 
 import Image from "next/image";
-import { Mail } from "./component/mail";
-import { Password } from "./component/password";
 import React from "react";
 
 export default function Home() {
@@ -101,32 +99,6 @@ export default function Home() {
                     </Text>
                   </Text>
                 </Modal.Header>
-                <Modal.Body>
-                  <Input
-                    clearable
-                    bordered
-                    fullWidth
-                    color="primary"
-                    size="lg"
-                    placeholder="Email"
-                    contentLeft={<Mail fill="currentColor" />}
-                  />
-                  <Input
-                    clearable
-                    bordered
-                    fullWidth
-                    color="primary"
-                    size="lg"
-                    placeholder="Password"
-                    contentLeft={<Password fill="currentColor" />}
-                  />
-                  <Row justify="space-between">
-                    <Checkbox>
-                      <Text size={14}>Remember me</Text>
-                    </Checkbox>
-                    <Text size={14}>Forgot password?</Text>
-                  </Row>
-                </Modal.Body>
                 <Modal.Footer>
                   <Button auto flat color="error" onClick={closeHandler}>
                     Close
