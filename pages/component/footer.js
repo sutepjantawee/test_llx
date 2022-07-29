@@ -1,53 +1,32 @@
 import Image from "next/image";
-import React from 'react'
+import React from "react";
 export default function footer() {
-  return ( 
-   
- <div className=" grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 justify-items-center gap-y-16 pt-20 lg:mx-32 ">
-        <div className="items-center flex-col flex">
-          <div>
-          <Image src="/2 1.png" width={186} height={86} />
-          </div>
-       
-          <p className="text-sm  mt-6 md:mx-1 mx-28">
-          Lorem ipsum dolor sit amet consect adipisicing elit. Possimus
-              magnam voluptatum cupiditate veritatis in accusamus quisquam.
-          </p>
+  return (
+    <div className=" grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 justify-items-center gap-y-16 pt-20 lg:mx-32 ">
+      <div className="items-center flex-col flex">
+        <div>
+          <Image src="/llx-logo.png" width={100} height={110} />
         </div>
-        <div className="">
-          <p className="text-xl"> About us</p>
-          <p className="text-sm  mt-6 ">
-            Information
-            <br /> <br />
-            Term of use
-            <br /> <br />
-            User Agreement
-            <br /> <br />
-            Transaction Fees
-           
-          </p>
-        </div>
-        <div className="">
-          <p className="text-xl"> Mobile</p>
-          <p className="text-sm  mt-6 ">
-            iOS
-            <br /> <br />
-            Android
-          </p>
-        </div>
-        <div className="">
-          <p className="text-xl">Support</p>
-          <p className="text-sm  mt-6 ">
-            Information
-            <br /> <br />
-            Term of use
-            <br /> <br />
-            User Agreement
-            <br /> <br />
-            Transaction Fees
-          </p>
-        </div>
-    
+
+        <p className="text-sm  mt-6 md:mx-1 mx-28">
+          2022© Lodge Lane Xang 1632 SC.
+        </p>
+      </div>
+      <div className="">
+        <p className="text-xl"> About Freemasonry</p>
+        <p className="text-sm  mt-6 ">
+          Information
+          <br /> <br />
+        </p>
+      </div>
+      <div className="">
+        <p className="text-xl">Contact us</p>
+        <p className="text-sm  mt-6 ">
+          How to reach us
+          <br /> <br />
+        </p>
+      </div>
+
       {/*
       <div className="w-fll h-0.5 bg-PopularAssets pt-10"></div>
       <div className="flex justify-center mt-10 gap-x-10">
@@ -119,9 +98,6 @@ export default function footer() {
         </div>
       </div>
       */}
-         
     </div>
-   
-   
-  )
+  );
 }

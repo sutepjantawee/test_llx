@@ -1,11 +1,11 @@
 import { BellIcon, MenuIcon, XIcon } from "@heroicons/react/outline";
 import { Disclosure, Menu, Transition } from "@headlessui/react";
 
-import Bot from "./bot";
+// import Bot from "./bot";
 import { Fragment } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import example from "../../public/2 1.png";
+import logo from "../../public/llx-logo.png";
 
 const navigation = [
   { name: "History of the Lodge", href: "/history", current: false },
@@ -20,23 +20,23 @@ function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
 }
 
-export default function Example() {
+export default function Logo() {
   return (
     <Disclosure as="nav" className="bg-gray-800 fixed w-full z-10">
       {({ open }) => (
         <>
           <div className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 ">
-            <div className="relative flex items-center justify-between h-16">
+            <div className="relative flex items-center justify-between h-20">
               <div className="absolute inset-y-0 left-0 flex items-center ">
                 {/* Image*/}
                 <div className="inline-flex items-center justify-center ">
                   <Link href="/">
                     <a>
                       <Image
-                        src={example}
+                        src={logo}
                         alt="Alt text for the picture"
-                        width="110px"
-                        height="50px"
+                        width="60px"
+                        height="60px"
                       />
                     </a>
                   </Link>

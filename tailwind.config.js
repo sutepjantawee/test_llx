@@ -7,12 +7,11 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'header': "url('../public/shubham-dhage-R2HtYWs5-QA-unsplash.jpg')",
-        'pattern': "url('../public/shubham-dhage-UxDU0Gg5pqQ-unsplash.jpg')",
-        'card': "url('../public/shubham-dhage-Sj-HVUI8zSA-unsplash.jpg')",
-       
-      }
+        header: "url('../public/default-background.jpeg')",
+        pattern: "url('../public/about-background.jpeg')",
+        card: "url('../public/about-background.jpeg')",
+      },
     },
   },
   plugins: [],
-}
+};
