@@ -16,6 +16,7 @@ import {
 } from "@nextui-org/react";
 
 import Image from "next/image";
+import Navbar from "./component/navbar";
 import React from "react";
 
 export default function Home() {
@@ -53,6 +54,28 @@ export default function Home() {
   ];
   return (
     <div className="z-10 ">
+      <Navbar />
+      <div className="grid justify-items-center place-items-center h-[607px] w-full bg-[#1E2643] pt-16">
+        <div className="bg-logoheader h-[422px] w-[359px] bg-cover "></div>
+        <div className="md:text-[40px] text-[30px] absolute text-white ">
+          Welcome to Lodge Lane Xang 1632 SC
+        </div>
+      </div>
+      <div className="lg:h-[307px] h-[407px] w-full bg-white text-center">
+        <div className="text-2xl pt-[73px]">What is Freemasonry?</div>
+        <div className="text-xl pt-[37px]">
+          Freemasonry is “a fraternity of brothers who share one common goal:{" "}
+          <br />
+          to help each other become better men,” according to the websites of
+          several Freemason lodges. <br />
+          The Freemasons “strengthen and improve our character by learning and
+          practicing basic virtues of fraternal love, <br />
+          charity, and truth. Our principles extend far beyond our interactions
+          with each other, and we strive to <br />
+          apply them to our daily lives.”
+        </div>
+      </div>
+
       <div className=" md:flex md:flex-row bg-header bg-cover bg-fixed">
         <div className="justify-center flex pt-24 flex-col items-center  md:flex-row-reverse w-full">
           <div className="md:pt-10 md:w-1/2 items-center flex w-4/5">
