@@ -2,7 +2,7 @@ import Footer from "./component/footer";
 import Navbar from "./component/navbar";
 export default function Member() {
   return (
-    <div className="grid">
+    <div className="grid font-serif">
       <Navbar />
       <div className="pt-[114px] justify-self-end pr-[76px]">
         <input
@@ -17,7 +17,7 @@ export default function Member() {
           <div className="w-[339px] pr-[77px]">
             Introduction 1st Degree
             <ul className="pl-[14px]">
-              <li>Overview</li>
+              <li className="font-medium">Overview</li>
               <li>Good to read</li>
               <li>Stuff</li>
             </ul>

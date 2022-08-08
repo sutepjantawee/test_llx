@@ -63,7 +63,7 @@ export default function Home() {
       </div>
       <div className="lg:h-[307px] h-[407px] w-full bg-white text-center">
         <div className="text-2xl pt-[73px]">What is Freemasonry?</div>
-        <div className="text-xl pt-[37px]">
+        <div className="text-xl pt-[37px] text-[#3A3A3A]">
           Freemasonry is “a fraternity of brothers who share one common goal:{" "}
           <br />
           to help each other become better men,” according to the websites of
