@@ -1,4 +1,5 @@
 import Footer from "./component/footer";
+import Image from "next/image";
 import Navbar from "./component/navbar";
 export default function Bot() {
   const products = [
