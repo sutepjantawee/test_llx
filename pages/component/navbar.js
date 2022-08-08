@@ -82,8 +82,8 @@ export default function Logo() {
                
               <div className="content-center grid pr-14">
             <Link href="/Members_Password">
-               <div class="rounded-md shadow w-32">
-           <a href="" class="w-full flex items-center justify-center py-3 border border-transparent rounded-xl text-white bg-indigo-600 hover:bg-indigo-700"> Members Area</a>
+               <div className="rounded-md shadow w-32">
+           <a href="" className="w-full flex items-center justify-center py-3 border border-transparent rounded-xl text-white bg-indigo-600 hover:bg-indigo-700"> Members Area</a>
          </div>
                </Link>
             </div>   
