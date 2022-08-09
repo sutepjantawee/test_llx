@@ -4,7 +4,7 @@ import Navbar from "./component/navbar"
 import React from "react"
 export default function Index() {
   return (
-    <div className="font-serif">
+    <div className="font-serif ">
       <Navbar/>
     <Home/>
     <Footer/>

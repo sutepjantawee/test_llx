@@ -10,10 +10,10 @@ import logo from "../../public/llx-logo.png";
 const navigation = [
   { name: "History of the Lodge", href: "/History", current: false },
   { name: "News and Events", href: "/news", current: false },
-  { name: "Agenda Activities", href: "/agenda", current: false },
-  { name: "Humor Corner", href: "/humor", current: false },
-  { name: "Masonic Visitors", href: "/masonic", current: false },
-  { name: "Joining Freemasonry", href: "/joining", current: false },
+  { name: "Agenda Activities", href: "/Agenda", current: false },
+  { name: "Humor Corner", href: "/Humor", current: false },
+  { name: "Masonic Visitors", href: "/Masonic", current: false },
+  { name: "Joining Freemasonry", href: "/Joining", current: false },
 ];
 
 function classNames(...classes) {
@@ -75,26 +75,20 @@ export default function Logo() {
                 </div>
               </div>
 
-            
-            
-             
-              
-               
-              <div className="content-center grid pr-14">
-            <Link href="/Members_Password">
-               <div className="rounded-md shadow w-32">
-           <a href="" className="w-full flex items-center justify-center py-3 border border-transparent rounded-xl text-white bg-indigo-600 hover:bg-indigo-700"> Members Area</a>
-         </div>
-               </Link>
-            </div>   
-            
-
+              <div className="content-center  pr-14 hidden lg:block">
+                <Link href="/Members_Password">
+                  <div className="rounded-md shadow w-32">
+                    <a
+                      href=""
+                      className="w-full flex items-center justify-center py-3 border border-transparent rounded-xl text-white bg-indigo-600 hover:bg-indigo-700"
+                    >
+                      {" "}
+                      Members Area
+                    </a>
+                  </div>
+                </Link>
+              </div>
             </div>
-            
-            
-           
-            
-             
           </div>
 
           <Disclosure.Panel className="lg:hidden">
@@ -115,6 +109,19 @@ export default function Logo() {
                   {item.name}
                 </Disclosure.Button>
               ))}
+              <div className="content-center grid px-3">
+                <Link href="/Members_Password">
+                  <div className="rounded-md shadow w-full ">
+                    <a
+                      href=""
+                      className="w-full h-[40px] mt-2 flex items-center justify-center py-3 border border-transparent rounded-xl text-white bg-indigo-600 hover:bg-indigo-700"
+                    >
+                      
+                      Members Area
+                    </a>
+                  </div>
+                </Link>
+              </div>
             </div>
           </Disclosure.Panel>
         </>
