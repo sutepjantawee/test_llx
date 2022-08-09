@@ -15,7 +15,7 @@ export default function Humor() {
           better husband and father to his children, a better friend and
           co-worker. For the man who seeks out the fraternity, for Freemasonry
           does not seek out members, this quality should already be inherent in
-          his person.
+          his persons.
         </p>
         <div className="flex justify-center pt-10">
           <Image src="/default-background.jpeg" width={700} height={400} />
