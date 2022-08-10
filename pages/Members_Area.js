@@ -77,7 +77,7 @@ export default function Member() {
                 <li>Stuff</li>
               </ul>
             </div>
-            <div className="w-full sm:pt-1 pt-3 sm:hidden ">
+            <div className="w-full sm:pt-1 pt-3 sm:hidden sm:pl-5 ">
               On this page
               <ul className="pl-[14px] pt-2">
                 <li>Overview</li>
