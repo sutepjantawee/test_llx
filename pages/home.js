@@ -55,14 +55,15 @@ export default function Home() {
   return (
     <div className="z-10 ">
       <Navbar />
-      <div className="grid justify-items-center place-items-center h-[607px] w-full bg-[#1E2643] pt-16">
-        <div className="bg-logoheader h-[328px] w-[280px] sm:h-[422px] sm:w-[359px] bg-cover static "></div>
-        <div className=" md:text-[40px] sm:text-[30px] text-[20px] absolute text-white px-2 place-self-center pt-20">
+      <div className="grid justify-items-center place-items-center h-[607px] w-full bg-[#1E2643] bg-logoheader bg-auto bg-no-repeat bg-center ">
+        <div className=" w-full text-center md:text-[40px] sm:text-[30px] text-[20px]  text-white px-2 place-self-center ">
           Welcome to Lodge Lane Xang 1632 SC
         </div>
       </div>
       <div className="xl:h-[350px] md:h-[400px] sm:h-[440px] fold:h-[550px] h-[620px] w-full bg-white text-center px-2">
-        <div className="text-2xl pt-[73px] text-[24px]">What is Freemasonry?</div>
+        <div className="text-2xl pt-[73px] text-[24px]">
+          What is Freemasonry?
+        </div>
         <div className="text-xl pt-[37px] text-[#3A3A3A] text-[20px]">
           Freemasonry is “a fraternity of brothers who share one common goal:{" "}
           <br />
