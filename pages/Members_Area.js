@@ -32,8 +32,8 @@ export default function Member() {
             </div>
           </div>
 
-          <div className=" flex flex-col md:flex md:flex-row fold:flex fold:flex-row  lg:hidden pb-14 ml-10 ">
-            <div className="w-full sm:hidden pt-3">
+          <div className=" flex flex-col md:flex md:flex-row fold:flex fold:flex-row  lg:hidden pb-14 fold:ml-1 sm:ml-12 ml-2 ">
+            <div className="w-full sm:hidden pt-3 pl-6">
               <div className="w-full ">
                 Introduction 1st Degree
                 <ul className="pl-[14px] ">
@@ -77,7 +77,7 @@ export default function Member() {
                 <li>Stuff</li>
               </ul>
             </div>
-            <div className="w-full sm:pt-1 pt-3 sm:hidden sm:pl-5 ">
+            <div className="w-full sm:pt-1 pt-3 sm:hidden sm:pl-10 pl-6">
               On this page
               <ul className="pl-[14px] pt-2">
                 <li>Overview</li>
