@@ -57,7 +57,7 @@ export default function Home() {
       <Navbar />
       <div className="grid justify-items-center place-items-center h-[607px] w-full bg-[#1E2643] pt-16">
         <div className="bg-logoheader h-[328px] w-[280px] sm:h-[422px] sm:w-[359px] bg-cover  "></div>
-        <div className=" md:text-[40px] sm:text-[30px] text-[20px] absolute text-white px-2 place-self-center">
+        <div className=" md:text-[40px] sm:text-[30px] text-[20px] absolute text-white px-2 place-self-center pt-20">
           Welcome to Lodge Lane Xang 1632 SC
         </div>
       </div>
