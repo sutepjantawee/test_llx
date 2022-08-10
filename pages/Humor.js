@@ -3,26 +3,26 @@ import Image from "next/image";
 import Navbar from "./component/navbar";
 export default function Humor() {
   return (
-    <div className="">
+    <div className="font-serif">
       <Navbar />
-      <div className="pt-32 mx-24">
+      <div className="pt-32  xl:mx-[223px] md:mx-[100px] sm:mx-[70px] fold:mx-[20px] mx-[10px] pb-16">
         <p className="text-3xl">Humor Corner</p>
-        <p className="text-xl pt-8 ml-10">Some Content</p>
-        <p className=" ml-10 pt-5">
+        <p className="text-xl pt-8 ml-6">Some Humor Corner</p>
+        <p className=" ml-6 pt-5">
           The principle idea of Freemasonry as a fraternal organization is to
           take a good man and make him a better man. A better man internally as
           well as externally, a better citizen of his community and country, a
           better husband and father to his children, a better friend and
           co-worker. For the man who seeks out the fraternity, for Freemasonry
           does not seek out members, this quality should already be inherent in
-          his person.
+          his persons.
         </p>
         <div className="flex justify-center pt-10">
           <Image src="/default-background.jpeg" width={700} height={400} />
         </div>
         <br />
         <p className="text-3xl">Requirements for Membership</p>
-        <p className="pt-8 ml-10">
+        <p className="pt-8 ml-6">
           1. Being a man, freeborn, of good repute and well-recommended Being a
           man – as Freemasonry is a Fraternity or all-male organization, this is
           a must as the lodge does not admit women. There are, however, Masonic

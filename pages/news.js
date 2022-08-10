@@ -47,20 +47,25 @@ export default function Bot() {
     },
   ];
   return (
-    <div className="">
+    <div className="font-serif">
       <Navbar />
-      <div className="pt-32 mx-32">
+      <div className="pt-32 pl-10">
         <p className="text-3xl">News </p>
       </div>
-      <div className="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
+      <div className="max-w-2xl mx-auto pb-16 pt-5 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
         <div className="mt-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-3 xl:gap-x-8">
           {products.map((product) => (
-            <div key={product.id} className="group relative">
-              <div className="w-full min-h-80 bg-gray-200 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none">
-                <Image
+            <div key={product.id} className="group relative ">
+              <div className="w-full grid justify-items-stretch min-h-80 bg-gray-200 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none">
+               <div className=" justify-self-center">
+               <Image
                   src={product.imageSrc}
-                  className="w-full h-full object-center object-cover lg:w-full lg:h-full"
+                  className="w-[300px] h-[300px] object-center object-cover lg:w-full lg:h-full"
+                  width="300px"
+                  height="300px"
                 />
+               </div>
+               
               </div>
               <div className="mt-4 flex justify-between">
                 <div>
