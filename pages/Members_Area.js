@@ -282,7 +282,8 @@ export default function Member() {
               fine; if not, that’s also fine; and the same for all the other
               ways of intending Freemasonry; we should instead, find the common
               ground, where we can best work, and best agree”. Still Bro. de
-              Hoyos in another occasion said “Let's dwell together in unity by
+              Hoyos in another occasion said “Let{"'"}s dwell together in unity by
+              Hoyos in another occasion said “Lets dwell together in unity by
               practicing the virtues of our fraternity, and not look for things
               to divide us”.
             </p>
@@ -412,7 +413,7 @@ export default function Member() {
                 <div>f)</div>
                 <div>
                   Grand Lodge Theory. Freemasonry was born on 24 June 1717, St
-                  John's Day, four London Lodges came together at the Goose and
+                  Jo{"'"}Day, four London Lodges came together at the Goose and
                   Gridiron Tavern declaring themselves a Grand Lodge.
                 </div>
               </div>
@@ -840,7 +841,7 @@ export default function Member() {
               himself on the level with all men and most especially his Brethren
               in Freemasonry.
               <br /> <br />
-              His duty to see that the RWM's plans are duly implemented and
+              His duty to see that the R{"'"}plans are duly implemented and
               carried out.
               <br /> <br />
               In carrying out his duties he should treat all Brethren as
@@ -1382,8 +1383,7 @@ export default function Member() {
               ____________________
               <br />
               <span className="text-base">
-                <span className=" text-sm align-top">7</span> Mackey's
-                Encyclopedia of Freemasonry.
+                <span className=" text-sm align-top">7</span> Mack{"'"}                Encyclopedia of Freemasonry.
               </span>
               <br /> <br />
               <br /> <br />
@@ -1443,7 +1443,7 @@ export default function Member() {
               the circus. Finally, there was only one other family between us
               and the ticket counter. This family made a big impression on me.
               There were eight children, all probably under the age of 12. The
-              way they were dressed, you could tell they didn't have a lot of
+              way they were dressed, you could tell they di{"'"}have a lot of
               money, but their clothes were neat and clean. The children were
               well-behaved, all of them standing in line, two-by-two behind
               their parents, holding hands. They were excitedly jabbering about
@@ -1451,8 +1451,8 @@ export default function Member() {
               night. By their excitement you could sense they had never been to
               the circus before. It would be a highlight of their lives. The
               father and mother were at the head of the pack standing proud as
-              could be. The mother was holding her husband's hand, looking up at
-              him as if to say, "You're my knight in shining armor." He was
+              could be. The mother was holding her husba{"'"}hand, looking up at
+              him as if to say, "Y{"'"} my knight in shining armor." He was
               smiling and enjoying seeing his family happy.
               <br /> <br />
               <br /> <br />
@@ -1480,28 +1480,27 @@ export default function Member() {
               <br />
               <p className="text-base">
                 The ticket lady asked the man how many tickets he wanted? He
-                proudly responded, "I'd like to buy eight children's tickets and
+                proudly responded, {"'"}like to buy eight childr{"'"}tickets and
                 two adult tickets, so I can take my family to the circus." The
-                ticket lady stated the price. The man's wife let go of his hand,
-                her head dropped, the man's lip began to quiver. Then he leaned
+                ticket lady stated the price. The m{"'"}wife let go of his hand,
+                her head dropped, the m{"'"}lip began to quiver. Then he leaned
                 a little closer and asked, "How much did you say?" The ticket
-                lady again stated the price. The man didn't have enough money.
+                lady again stated the price. The man di{"'"}have enough money.
                 How was he supposed to turn and tell his eight kids that he
-                didn't have enough money to take them to the circus? Seeing what
+                di{"'"}have enough money to take them to the circus? Seeing what
                 was going on, my dad reached into his pocket, pulled out a $20
                 bill, and then dropped it on the ground. (We were not wealthy in
                 any sense of the word!) My father bent down, picked up the $20
                 bill, tapped the man on the shoulder and said, "Excuse me, sir,
                 this fell out of your pocket." The man understood what was going
-                on. He wasn't begging for a handout but certainly appreciated
+                on. He wa{"'"}begging for a handout but certainly appreciated
                 the help in a desperate, heartbreaking and embarrassing
-                situation. He looked straight into my dad's eyes, took my dad's
-                hand in both of his, squeezed tightly onto the $20 bill, and
+                situation. He looked straight into my d{"'"}eyes, took my d{"'"}                hand in both of his, squeezed tightly onto the $20 bill, and
                 with his lip quivering and a tear streaming down his cheek, he
                 replied; "Thank you, thank you, sir. This really means a lot to
                 me and my family." My father and I went back to our car and
                 drove home. The $20 that my dad gave away is what we were going
-                to buy our own tickets with. Although we didn't get to see the
+                to buy our own tickets with. Although we di{"'"}get to see the
                 circus that night, we both felt a joy inside us that was far
                 greater than seeing the circus could ever provide. That day I
                 learned the value to give. The giver is bigger than the
@@ -1509,7 +1508,7 @@ export default function Member() {
                 Give. Love has nothing to do with what you are expecting to get
                 - only with what you are expecting to give - which is
                 everything. The importance of giving, blessing others can never
-                be over emphasized because there's always joy in giving. Learn
+                be over emphasized because the{"'"}always joy in giving. Learn
                 to make someone happy by acts of giving.” Katharine Hepburn
               </p>
               <br /> <br />
@@ -1802,7 +1801,7 @@ export default function Member() {
               central and unchanging status.
               <br /> <br />
               In the Lodge-room we circumambulate around the Altar on which,
-              among others, rests the VSL symbol of man's acknowledgment of his
+              among others, rests the VSL symbol of m{"'"}acknowledgment of his
               relationship to Deity.
               <br /> <br />
               In the circumambulation of the Lodge the Brethren follow the path
