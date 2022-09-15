@@ -18,7 +18,7 @@ export default function Agenda() {
           his person.
         </p>
         <div className="flex justify-center pt-10">
-          <Image src="/default-background.jpeg" width={700} height={400} />
+          <Image alt="" src="/default-background.jpeg" width={700} height={400} />
         </div>
         <br />
         <p className="text-3xl">Requirements for Membership</p>

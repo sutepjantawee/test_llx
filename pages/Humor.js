@@ -9,19 +9,19 @@ export default function Humor() {
         <p className="text-3xl">Humor Corner</p>
         <div className="grid justify-center pt-5">
           <div className="pt-5">
-            <Image src="/Humor1.jpeg" width="700" height="600" />
+            <Image alt="" src="/Humor1.jpeg" width="700" height="600" />
           </div>
           <div className="pt-5">
-            <Image src="/Humor2.jpeg" width="700" height="600" />
+            <Image alt="" src="/Humor2.jpeg" width="700" height="600" />
           </div>
           <div className="pt-5">
-            <Image src="/Humor3.jpeg" width="700" height="600" />
+            <Image alt="" src="/Humor3.jpeg" width="700" height="600" />
           </div>
           <div className="pt-5">
-            <Image src="/Humor4.jpeg" width="700" height="600" />
+            <Image alt="" src="/Humor4.jpeg" width="700" height="600" />
           </div>
           <div className="pt-5">
-            <Image src="/Humor5.jpeg" width="700" height="600" />
+            <Image alt="" src="/Humor5.jpeg" width="700" height="600" />
           </div>
          
         </div>

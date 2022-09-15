@@ -249,7 +249,7 @@ export default function Member() {
                 According to the prominent Freemason Bro. de Hoyos, Grand
                 Librarian of the Ancient and Accepted Scottish Rite, these
                 ritual-dramas usher us into a mythical realm, where the lessons
-                are taught through quasi-historic "heroic adventures." Through
+                are taught through quasi-historic &quot;heroic adventures.&quot; Through
                 these we develop and improve our personal character.
                 <br /> <span className=" text-sm align-top ...">3</span> According
                 to a survey launched not so many years ago by the United Grand
@@ -1452,7 +1452,7 @@ export default function Member() {
               the circus before. It would be a highlight of their lives. The
               father and mother were at the head of the pack standing proud as
               could be. The mother was holding her husba{"'"}hand, looking up at
-              him as if to say, "Y{"'"} my knight in shining armor." He was
+              him as if to say, &quot;Y{"'"} my knight in shining armor.&quot; He was
               smiling and enjoying seeing his family happy.
               <br /> <br />
               <br /> <br />
@@ -1481,24 +1481,24 @@ export default function Member() {
               <p className="text-base">
                 The ticket lady asked the man how many tickets he wanted? He
                 proudly responded, {"'"}like to buy eight childr{"'"}tickets and
-                two adult tickets, so I can take my family to the circus." The
+                two adult tickets, so I can take my family to the circus.&quot; The
                 ticket lady stated the price. The m{"'"}wife let go of his hand,
                 her head dropped, the m{"'"}lip began to quiver. Then he leaned
-                a little closer and asked, "How much did you say?" The ticket
+                a little closer and asked, &quot;How much did you say?&quot; The ticket
                 lady again stated the price. The man di{"'"}have enough money.
                 How was he supposed to turn and tell his eight kids that he
                 di{"'"}have enough money to take them to the circus? Seeing what
                 was going on, my dad reached into his pocket, pulled out a $20
                 bill, and then dropped it on the ground. (We were not wealthy in
                 any sense of the word!) My father bent down, picked up the $20
-                bill, tapped the man on the shoulder and said, "Excuse me, sir,
-                this fell out of your pocket." The man understood what was going
+                bill, tapped the man on the shoulder and said, &quot;Excuse me, sir,
+                this fell out of your pocket.&quot; The man understood what was going
                 on. He wa{"'"}begging for a handout but certainly appreciated
                 the help in a desperate, heartbreaking and embarrassing
                 situation. He looked straight into my d{"'"}eyes, took my d{"'"}                hand in both of his, squeezed tightly onto the $20 bill, and
                 with his lip quivering and a tear streaming down his cheek, he
-                replied; "Thank you, thank you, sir. This really means a lot to
-                me and my family." My father and I went back to our car and
+                replied; &quot;Thank you, thank you, sir. This really means a lot to
+                me and my family.&quot; My father and I went back to our car and
                 drove home. The $20 that my dad gave away is what we were going
                 to buy our own tickets with. Although we di{"'"}get to see the
                 circus that night, we both felt a joy inside us that was far
@@ -1615,7 +1615,7 @@ export default function Member() {
                     Freemasons find ritual and symbolism difficult to
                     understand, if not meaningless. Many of us have lost the
                     ability to understand that the symbol of, say, the square
-                    and the compasses is much more than an image alt="" of measuring
+                    and the compasses is much more than an image of measuring
                     instruments, that there is much more to it that meets the
                     eye.
                   </span>
@@ -1911,7 +1911,7 @@ export default function Member() {
               <br />
               The Obligation is the heart of any Masonic degree. With this, the
               Candidate solemnly bounds himself to Freemasonry and to all others
-              Freemasons in a bond referred to as the "Mystic Tie" by Scottish
+              Freemasons in a bond referred to as the &quot;Mystic Tie&quot; by Scottish
               poet and Freemason Robert Burns, and accepts certain duties and
               responsibilities which are his to fulfil for the rest of his life.
               The taking of the Obligation is visible and audible evidence of
@@ -2050,7 +2050,7 @@ export default function Member() {
               <br /> <br />
               Around 400 years ago, the lodges of stone-masons began to accept
               non-masons, and the building of Gothic cathedrals was gradually
-              replaced by the building of that "house not made with hands"{" "}
+              replaced by the building of that &quot;house not made with hands&quot;
               <span className=" text-sm align-top ...">15</span> . Eventually, the
               lodges shift their interest and, as we say now, from operative
               became speculative. In this new accentuated aspiration for a
