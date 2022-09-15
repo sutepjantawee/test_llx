@@ -4,9 +4,9 @@ export default function History() {
   return (
     <div className="font-serif grid h-auto">
       <Navbar />
-      <div className="pt-32 grid mx-[30px] xl:mx-[223px] md:mx-[120px] sm:mx-[70px] ">
+      <div className="pt-32 mx-[30px] xl:mx-[223px] md:mx-[120px] sm:mx-[70px] h-[750px] ">
         <p className="text-3xl text-[24px] text-left ">History of the Lodge</p>
-        <div className="text-xl pt-8 pb-96 text-[16px] ">
+        <div className="text-xl pt-10 text-[16px] ">
           Lodge Lane Xang is a Scottish Freemasons Lodge operating in Thailand
           but originally consecrated in Vientiane, Laos in 1967. It operated
           there until the Laotian government was overthrown by communists and

@@ -5,9 +5,9 @@ export default function Masonic() {
     <div className="font-serif  ">
       <Navbar />
 
-      <div className="pt-32 grid mx-[30px] xl:mx-[223px] md:mx-[120px] sm:mx-[70px] ">
-        <p className="text-3xl text-[24px] text-left ">Masonic Visitors</p>
-        <div className="text-xl pt-8 pb-[500px] text-[16px] ">
+      <div className="pt-32 mx-[30px] xl:mx-[223px] md:mx-[120px] sm:mx-[70px] h-[750px] ">
+        <div className="text-3xl text-[24px] text-left ">Masonic Visitors</div>
+        <div className="text-xl  text-[16px] pt-10">
           All Masonic Visitors from Grand Lodges in amity with the Grand Lodge
           of Scotland are welcome.
           <br />

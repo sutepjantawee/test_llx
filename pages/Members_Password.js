@@ -17,7 +17,7 @@ export default function Member() {
   return (
     <div className="font-serif">
       <Navbar />
-      <div className=" grid place-items-center text-center h-[739px]">
+      <div className=" grid place-items-center text-center h-[750px]">
         
         <from>
         <div className="text-3xl pb-[48px]"> Password</div>
