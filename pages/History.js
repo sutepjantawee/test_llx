@@ -7,18 +7,22 @@ export default function History() {
       <div className="pt-32 grid mx-[30px] xl:mx-[223px] md:mx-[120px] sm:mx-[70px] ">
         <p className="text-3xl text-[24px] text-left ">History of the Lodge</p>
         <div className="text-xl pt-8 pb-96 text-[16px] ">
-          Freemasonry is “a fraternity of brothers who share one common goal: to
-          help each other become better men,” according to the websites of
-          several Freemason lodges. The Freemasons “strengthen and improve our
-          character by learning and practicing basic virtues of fraternal love,
-          charity, and truth. Our principles extend far beyond our interactions
-          with each other, and we strive to apply them to our daily lives.”
+          Lodge Lane Xang is a Scottish Freemasons Lodge operating in Thailand
+          but originally consecrated in Vientiane, Laos in 1967. It operated
+          there until the Laotian government was overthrown by communists and
+          due to political circumstances, it went into darkness in 1976. The
+          lodge was reopened again in Bangkok in 2000 and has been successfully
+          operating ever since.
+          <br />
+          Grand Lodge of Scotland https://www.grandlodgescotland.com/
+          <br />
+          Masonic magazine “The Square” https://www.thesquaremagazine.com/
+          <br />
+          Masonic articles http://www.freemasons-freemasonry.com/
         </div>
       </div>
 
-<Footer />
-
-      
+      <Footer />
     </div>
   );
 }
