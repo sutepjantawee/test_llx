@@ -11,7 +11,7 @@ export default function Example() {
       <div className=" grid place-items-center h-[739px]">
         <from className="grid ">
           <div className="text-center text-3xl font-extrabold text-gray-900 pb-10">
-            Joining
+          Welcome to the Journey
           </div>
           <div className="text-xl pb-[10px]"> Name</div>
           <input

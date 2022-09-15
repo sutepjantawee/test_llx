@@ -6,7 +6,7 @@ export default function footer() {
     <div className=" grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 justify-items-center gap-y-16 py-5  bg-[#1E2643] text-white  w-full ">
       <div className="items-center flex-col flex ">
         <div>
-          <Image src="/llx-logo.png" width={100} height={95} />
+          <Image alt="" src="/llx-logo.png" width={100} height={95} />
         </div>
 
         <p className="text-sm mt-6 mx-1">

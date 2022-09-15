@@ -57,15 +57,15 @@ export default function Bot() {
           {products.map((product) => (
             <div key={product.id} className="group relative ">
               <div className="w-full grid justify-items-stretch min-h-80 bg-gray-200 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none">
-               <div className=" justify-self-center">
-               <Image
-                  src={product.imageSrc}
-                  className="w-[300px] h-[300px] object-center object-cover lg:w-full lg:h-full"
-                  width="300px"
-                  height="300px"
-                />
-               </div>
-               
+                <div className=" justify-self-center">
+                  <Image
+                    alt=""
+                    src={product.imageSrc}
+                    className="w-[300px] h-[300px] object-center object-cover lg:w-full lg:h-full"
+                    width="300px"
+                    height="300px"
+                  />
+                </div>
               </div>
               <div className="mt-4 flex justify-between">
                 <div>
