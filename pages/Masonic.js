@@ -7,7 +7,7 @@ export default function Masonic() {
 
       <div className="pt-32 grid mx-[30px] xl:mx-[223px] md:mx-[120px] sm:mx-[70px] ">
         <p className="text-3xl text-[24px] text-left ">Masonic Visitors</p>
-        <div className="text-xl pt-8 pb-[30rem] text-[16px] ">
+        <div className="text-xl pt-8 pb-[32rem] text-[16px] ">
           All Masonic Visitors from Grand Lodges in amity with the Grand Lodge
           of Scotland are welcome.
           <br />
