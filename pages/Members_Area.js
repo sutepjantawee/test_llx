@@ -245,13 +245,13 @@ export default function Member() {
                 <span class=" text-sm align-top ...">1</span>
                 Tobias Churton, Freemasonry, the Reality, Lewis Masonic 2006{" "}
                 <br />
-                <span class=" text-sm align-top ...">2</span>
+                <span className=" text-sm align-top ...">2</span>
                 According to the prominent Freemason Bro. de Hoyos, Grand
                 Librarian of the Ancient and Accepted Scottish Rite, these
                 ritual-dramas usher us into a mythical realm, where the lessons
                 are taught through quasi-historic "heroic adventures." Through
                 these we develop and improve our personal character.
-                <br /> <span class=" text-sm align-top ...">3</span> According
+                <br /> <span className=" text-sm align-top ...">3</span> According
                 to a survey launched not so many years ago by the United Grand
                 Lodge of England, 30% of English Freemasons believe that
                 spirituality is not a distinctive feature of the Craft.
@@ -459,11 +459,11 @@ export default function Member() {
                 that lodges became fixed, permanent institutions. There were no
                 longer casual meeting when thought necessary, usually to
                 initiate a candidate or conduct lodge business, but meetings at
-                set dates <span class=" text-sm align-top ">4</span> and written
+                set dates <span className=" text-sm align-top ">4</span> and written
                 records.
                 <br />
                 Thanks to the lodge records, in 17
-                <span class=" text-sm align-top ">th</span> Century we can
+                <span className=" text-sm align-top ">th</span> Century we can
                 detect contemporaneously lodges of working stonemasons, lodges
                 of gentlemen (the future speculative masons) and mixed lodges,
                 that is lodges in which part of its members were operative and
@@ -578,7 +578,7 @@ export default function Member() {
               The most commonly shared rules for Recognition are:
               <div className="pl-20">
                 <br />
-                <ul class="list-disc">
+                <ul className="list-disc">
                   <li> A belief in a Supreme Being.</li>
                   <li>
                     {" "}
@@ -1424,21 +1424,21 @@ export default function Member() {
               of the original word, which is αγάπη (agapi) or love, that is that
               kindly state of mind which renders a person full of goodwill and
               affectionate regard toward others
-              <span class="text-sm align-top ">8</span> . The three virtues,
+              <span className="text-sm align-top ">8</span> . The three virtues,
               then, would have been not “faith, hope, and charity” but “faith,
               hope and love”. Clearly, at a certain level, love and charity may
-              coincide<span class="text-sm align-top ">9</span> .
+              coincide<span className="text-sm align-top ">9</span> .
               <br /> <br />
               <br /> <br />
               ____________________
-              <br /> <span class="text-sm align-top ">8</span> “Though I speak
+              <br /> <span className="text-sm align-top ">8</span> “Though I speak
               with the tongues of men and of angels, and have not charity, I am
               become as sounding brass, or a tinkling cymbal. And though I have
               the gift of prophecy, and understand all mysteries and all
               knowledge; and though I have all faith, so that I could remove
               mountains, and have not charity, I am nothing.” (1 Corinth. xiii.
               1, 2.) <br />
-              <span class="text-sm align-top ">9</span> “Once when I was a
+              <span className="text-sm align-top ">9</span> “Once when I was a
               teenager, my father and I were standing in line to buy tickets for
               the circus. Finally, there was only one other family between us
               and the ticket counter. This family made a big impression on me.
@@ -1522,13 +1522,13 @@ export default function Member() {
               <span>
                 Freemasonry is surrounded by symbols, allegories and symbolic
                 actions. Without symbols there is no Freemasonry{" "}
-                <span class="text-sm align-top ">10</span>.
+                <span className="text-sm align-top ">10</span>.
                 <br /> <br />
                 Symbolism, in its most basic sense, involves using one thing to
                 represent another. Words, signs, gestures, drawings, and
                 physical articles can all be symbols with esoteric
-                <span class="text-sm align-top ">11</span> as well as exoteric
-                <span class="text-sm align-top ">12</span> meaning.
+                <span className="text-sm align-top ">11</span> as well as exoteric
+                <span className="text-sm align-top ">12</span> meaning.
                 <br /> <br />
                 The study of masonic symbolism is an important aspect of
                 personal spiritual growth in Freemasonry, but to benefit from
@@ -1579,7 +1579,7 @@ export default function Member() {
                 ____________________
                 <br />
                 <span className="text-base">
-                  <span class=" text-sm align-top ">10</span> “Symbolism is the
+                  <span className=" text-sm align-top ">10</span> “Symbolism is the
                   key to all mysteries, to all ancient and modern religions, to
                   all esoteric knowledge. Without an understanding of the
                   meaning of symbols, one will never appreciate the beauty of
@@ -1594,10 +1594,10 @@ export default function Member() {
                   users are unknown, perhaps unknowable”. [Leaves from Georgia
                   Masonry, published by Grand Lodge of Georgia, in Symbolism in
                   Craft Freemasonry by Colin Dyer, Lewis Masonic, 2006].
-                  <br /> <span class="text-sm align-top ">11</span> Esoteric:
+                  <br /> <span className="text-sm align-top ">11</span> Esoteric:
                   Intended for or likely to be understood by only a small number
                   of people with a specialized knowledge or interest.
-                  <br /> <span class="text-sm align-top ">12</span> Exoteric:
+                  <br /> <span className="text-sm align-top ">12</span> Exoteric:
                   Intended for or likely to be understood by the general public.
                   {/* page 35 */}
                   <br />
@@ -1976,11 +1976,11 @@ export default function Member() {
               ____________________
               <br />
               <span className="text-base">
-                <span class=" text-sm align-top ...">13</span> For our
+                <span className=" text-sm align-top ...">13</span> For our
                 particular climate conditions, the Grand Lodge of Scotland
                 allows us not to wear gloves, another important distinctive
                 badge of Freemasons, during the meeting.
-                <br /> <span class="text-sm align-top ...">14</span> In Gen.22
+                <br /> <span className="text-sm align-top ...">14</span> In Gen.22
                 we read that Abraham was about to sacrifice his son when the
                 Lord stopped him and gave him a lamb to sacrifice instead of his
                 son.
@@ -2052,7 +2052,7 @@ export default function Member() {
               Around 400 years ago, the lodges of stone-masons began to accept
               non-masons, and the building of Gothic cathedrals was gradually
               replaced by the building of that "house not made with hands"{" "}
-              <span class=" text-sm align-top ...">15</span> . Eventually, the
+              <span className=" text-sm align-top ...">15</span> . Eventually, the
               lodges shift their interest and, as we say now, from operative
               became speculative. In this new accentuated aspiration for a
               contact with the Divinity, the ground of the lodges was
@@ -2069,7 +2069,7 @@ export default function Member() {
               thanks to chalk or a stick.
               <br /> <br />
               In time, instead of marking and deleting symbols on the floor{" "}
-              <span class=" text-sm align-top ...">16</span> , Freemasons used a
+              <span className=" text-sm align-top ...">16</span> , Freemasons used a
               permanently painted tracing board which, at the end of the
               meeting, was collected and stored for the next use, along with
               every other object used during the ceremony.
@@ -2116,9 +2116,9 @@ export default function Member() {
               ____________________
               <br />
               <span className="text-base">
-                <span class=" text-sm align-top ...">15</span> 2nd Epistle to
+                <span className=" text-sm align-top ...">15</span> 2nd Epistle to
                 Corinthians 5:1
-                <br /> <span class="text-sm align-top ...">16</span> Marking and
+                <br /> <span className="text-sm align-top ...">16</span> Marking and
                 deleting symbols on the floor is still used in the Grande Loge
                 Nationale Française
               </span>
@@ -2566,7 +2566,7 @@ outcome of the vote.
               {/* page 55 */}
               <div className=" text-center pt-5 ">
                 <span className="text-center font-semibold">Harmony</span>
-                <span class=" text-sm align-top ...">17</span>
+                <span className=" text-sm align-top ...">17</span>
               </div>
               <br />
               At a certain stage of human evolution, food was no longer a matter
@@ -2594,7 +2594,7 @@ outcome of the vote.
               ____________________
               <br />
               <span className="text-base">
-                <span class=" text-sm align-top ...">17</span> Harmony is what
+                <span className=" text-sm align-top ...">17</span> Harmony is what
                 is called in the Scottish lodges the masonic dinner after the
                 meeting.
               </span>
