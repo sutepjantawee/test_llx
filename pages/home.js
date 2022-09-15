@@ -60,9 +60,24 @@ export default function Home() {
           Welcome to Lodge Lane Xang 1632 SC
         </div>
       </div>
-    
+      <div className="xl:h-[350px] md:h-[400px] sm:h-[440px] fold:h-[550px] h-[620px] w-full bg-white text-center px-2">
+        <div className="text-2xl pt-[73px] text-[24px]">
+          What is Freemasonry?
+        </div>
+        <div className="text-xl pt-[37px] text-[#3A3A3A] text-[20px]">
+          Freemasonry is “a fraternity of brothers who share one common goal:{" "}
+          <br />
+          to help each other become better men,” according to the websites of
+          several Freemason lodges. <br />
+          The Freemasons “strengthen and improve our character by learning and
+          practicing basic virtues of fraternal love, <br />
+          charity, and truth. Our principles extend far beyond our interactions
+          with each other, and we strive to <br />
+          apply them to our daily lives.”
+        </div>
+      </div>
 
-    
+     
     </div>
   );
 }
