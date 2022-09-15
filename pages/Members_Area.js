@@ -102,9 +102,9 @@ export default function Member() {
                 <Image src="/Overview/Picture2.jpg" width="900" height="600" />
               </div>
               <p className=" pt-10">
-                [A Freemasons’ Lodge must be] “A safe and pleasant Relaxation
+                [A Freemasons’ Lodge must be] &quot;A safe and pleasant Relaxation
                 from Intense Study or the Hurry of Business, without Politicks
-                or Party”
+                or Party&quot;
                 <br />
                 Rev. Anderson
               </p>
@@ -189,7 +189,7 @@ export default function Member() {
               theologies and knowledge both practical and spiritual.
               <br />
               We do not know when this spiritual content first appeared; it
-              certainly pre-dates the appearance of the word “Freemasonry”
+              certainly pre-dates the appearance of the word &quot;Freemasonry&quot;
               <span className=" text-sm align-top ...">1</span> and has never
               changed. The masonic system of morality – one of the simplest, and
               for this reason probably one of the best definitions of
@@ -198,7 +198,7 @@ export default function Member() {
               allegories, and metaphors during the masonic meetings which are
               nothing more than ritual dramas. In fact, allegories, symbolism,
               and metaphors are tools which, turning stories about someone else
-              into stories about “me”{" "}
+              into stories about &quot;me&quot;{" "}
               <span className=" text-sm align-top ...">2</span> , make the
               ritual drama not something that must just be heard, but an active
               environment in which the participants become the protagonists, and
@@ -209,10 +209,10 @@ export default function Member() {
               principles of Freemasonry are exemplified in the three degrees
               worked in them: Enter Apprentice, Fellow of Craft and Master
               Mason. In a recent article, Bro. Robert Cooper, the Curator of the
-              Grand Lodge of Scotland Museum and Library, said: “Participation
+              Grand Lodge of Scotland Museum and Library, said: &quot;Participation
               in Freemasonry is a personal experience that differs from person
               to person. The meaning of different aspects of Freemasonry, can
-              also differ from person to person”.
+              also differ from person to person&quot;.
               <br /> <br />
               In fact, among Freemasons, there are many widespread ideas on what
               constitutes Freemasonry. One of the main divisions among brethren
@@ -242,7 +242,7 @@ export default function Member() {
               ____________________
               <br />
               <span className="text-base">
-                <span class=" text-sm align-top ...">1</span>
+                <span className=" text-sm align-top ...">1</span>
                 Tobias Churton, Freemasonry, the Reality, Lewis Masonic 2006{" "}
                 <br />
                 <span className=" text-sm align-top ...">2</span>
@@ -275,17 +275,17 @@ export default function Member() {
               the right to decide?
               <br /> <br />
               Bro. de Hoyos, the Grand Librarian of the Ancient and Accepted
-              Scottish Rite, answered the question “Is Freemasonry esoteric?”
-              with “The short answer is yes, no, maybe”. He then specified that
+              Scottish Rite, answered the question &quot;Is Freemasonry esoteric?&quot;
+              with &quot;The short answer is yes, no, maybe&quot;. He then specified that
               we should avoid trying to advocate our preferred interpretation as
-              the true one. And he added “If esotericism interests you, that’s
+              the true one. And he added &quot;If esotericism interests you, that’s
               fine; if not, that’s also fine; and the same for all the other
               ways of intending Freemasonry; we should instead, find the common
-              ground, where we can best work, and best agree”. Still Bro. de
-              Hoyos in another occasion said “Let{"'"}s dwell together in unity by
-              Hoyos in another occasion said “Lets dwell together in unity by
+              ground, where we can best work, and best agree&quot;. Still Bro. de
+              Hoyos in another occasion said &quot;Let{"'"}s dwell together in unity by
+              Hoyos in another occasion said &quot;Lets dwell together in unity by
               practicing the virtues of our fraternity, and not look for things
-              to divide us”.
+              to divide us&quot;.
             </p>
             <br /> <br />
             {/* page 6 */}
@@ -474,7 +474,7 @@ export default function Member() {
                 arrived in England the Rosicrucian movement which aroused the
                 interest of two leading Freemasons: Moray and Ashmole. The
                 Rosicrucian movement linked the Masonic brotherhood to those who
-                would build a spiritual house “not made with hands” [Mark
+                would build a spiritual house &quot;not made with hands&quot; [Mark
                 XIV.55-58].
                 <br /> <br />
                 Eventually, non-operative masons working in a lodge adopted many
@@ -616,9 +616,9 @@ export default function Member() {
               to a particular religion or faith, it being a universal need of
               the soul. The Lodge labours cannot be opened or closed without
               prayer, which is offered by Brother Chaplain. At the end of
-              prayer, each brother responds with the words “So Mote It Be,”
-              which is an ancient and archaic phrase meaning “So may it ever
-              be”. At all times, during prayer, you should be at fidelity with
+              prayer, each brother responds with the words &quot;So Mote It Be,&quot;
+              which is an ancient and archaic phrase meaning &quot;So may it ever
+              be&quot;. At all times, during prayer, you should be at fidelity with
               your right hand shielding your heart.
               <br /> <br />
               <br /> <br />
@@ -886,7 +886,7 @@ export default function Member() {
               behaviour which Freemasons should have at all times, also out of
               the Lodge.
               <br /> <br />
-              In the triad “Wisdom, Strength and Beauty” he represents the
+              In the triad &quot;Wisdom, Strength and Beauty&quot; he represents the
               beauty and the harmony of the Lodge. He should assist the WSW in
               seeing that the RWM’s plans are carried out.
               <br /> <br />
@@ -1105,7 +1105,7 @@ export default function Member() {
               door of the Lodge, where he will remain until the lodge is
               formally closed.
               <br /> <br />
-              A Lodge is said to be “properly tyled” when the necessary
+              A Lodge is said to be &quot;properly tyled&quot; when the necessary
               precautions have been taken to guard against intrusion by cowans,
               eavesdroppers or other unauthorized persons. (A cowan is one who
               tries to masquerade as a Mason in order to gain admittance. An
@@ -1289,9 +1289,9 @@ export default function Member() {
               the Initiation rituals can only direct him, as the real
               transformation can only come from the inner life and previous
               knowledge and experience of the candidate. In fact, the Initiation
-              is just starting a process. “The purpose of masonic initiation is
+              is just starting a process. &quot;The purpose of masonic initiation is
               illumination – not total enlightenment … The first degree sets the
-              potential master mason on the path”
+              potential master mason on the path&quot;
               <span className=" text-sm align-top ">6</span> .
               <br /> <br />
               <br /> <br />
@@ -1420,25 +1420,25 @@ export default function Member() {
               of every Freemason, but we must not fall into the too common error
               that charity, which of course is highly commendable, is only
               assisting the poor with donations. Its Masonic meaning is more
-              noble and more extensive. In fact, “charity” is a bad translation
+              noble and more extensive. In fact, &quot;charity&quot; is a bad translation
               of the original word, which is αγάπη (agapi) or love, that is that
               kindly state of mind which renders a person full of goodwill and
               affectionate regard toward others
               <span className="text-sm align-top ">8</span> . The three virtues,
-              then, would have been not “faith, hope, and charity” but “faith,
-              hope and love”. Clearly, at a certain level, love and charity may
+              then, would have been not &quot;faith, hope, and charity&quot; but &quot;faith,
+              hope and love&quot;. Clearly, at a certain level, love and charity may
               coincide<span className="text-sm align-top ">9</span> .
               <br /> <br />
               <br /> <br />
               ____________________
-              <br /> <span className="text-sm align-top ">8</span> “Though I speak
+              <br /> <span className="text-sm align-top ">8</span> &quot;Though I speak
               with the tongues of men and of angels, and have not charity, I am
               become as sounding brass, or a tinkling cymbal. And though I have
               the gift of prophecy, and understand all mysteries and all
               knowledge; and though I have all faith, so that I could remove
-              mountains, and have not charity, I am nothing.” (1 Corinth. xiii.
+              mountains, and have not charity, I am nothing.&quot; (1 Corinth. xiii.
               1, 2.) <br />
-              <span className="text-sm align-top ">9</span> “Once when I was a
+              <span className="text-sm align-top ">9</span> &quot;Once when I was a
               teenager, my father and I were standing in line to buy tickets for
               the circus. Finally, there was only one other family between us
               and the ticket counter. This family made a big impression on me.
@@ -1509,7 +1509,7 @@ export default function Member() {
                 - only with what you are expecting to give - which is
                 everything. The importance of giving, blessing others can never
                 be over emphasized because the{"'"}always joy in giving. Learn
-                to make someone happy by acts of giving.” Katharine Hepburn
+                to make someone happy by acts of giving.&quot; Katharine Hepburn
               </p>
               <br /> <br />
               <br /> <br />
@@ -1563,12 +1563,12 @@ export default function Member() {
                   possessed. By symbols I mean something that is not a sign.
                   There is an important difference to be explained here. Signs
                   are designed for a specific purpose, for example, to impart a
-                  particular piece of information such as “roadworks ahead.” A
+                  particular piece of information such as &quot;roadworks ahead.&quot; A
                   sign does not have to impart any other layers of information,
                   whereas a symbol is intended to transmit more than can be seen
                   at superficial level, abstract concepts as well as facts. A
                   symbol can therefore be a sign but a sign cannot be a symbol.
-                  No sign can say “idea ahead” as if referring to roadworks.
+                  No sign can say &quot;idea ahead&quot; as if referring to roadworks.
                   <br /> <br />
                   Today there is a temptation to interpret most of what we see
                   at the simple level of signs, signs with only a single,
@@ -1578,7 +1578,7 @@ export default function Member() {
                 ____________________
                 <br />
                 <span className="text-base">
-                  <span className=" text-sm align-top ">10</span> “Symbolism is the
+                  <span className=" text-sm align-top ">10</span> &quot;Symbolism is the
                   key to all mysteries, to all ancient and modern religions, to
                   all esoteric knowledge. Without an understanding of the
                   meaning of symbols, one will never appreciate the beauty of
@@ -1590,7 +1590,7 @@ export default function Member() {
                   meaning. Masonry does not use words to convey the deeper
                   spiritual truths, it uses symbols, generally simple figures
                   whose beginning are hidden in the mystic past, and whose first
-                  users are unknown, perhaps unknowable”. [Leaves from Georgia
+                  users are unknown, perhaps unknowable&quot;. [Leaves from Georgia
                   Masonry, published by Grand Lodge of Georgia, in Symbolism in
                   Craft Freemasonry by Colin Dyer, Lewis Masonic, 2006].
                   <br /> <span className="text-sm align-top ">11</span> Esoteric:
@@ -1659,19 +1659,19 @@ export default function Member() {
               Before entering the lodge for the Initiation ceremony, the
               candidate’s dress is reduced to a minimum, suitable for a poor
               applicant in search for Light and with nothing else to offer but
-              his willing heart. And that’s why he enters the lodge “neither
-              naked nor clothed”.
+              his willing heart. And that’s why he enters the lodge &quot;neither
+              naked nor clothed&quot;.
               <br /> <br />
               <br />
               Blindfolded
               <br /> <br />
               The symbolism of the masonic blindfold is common to many ancient
               mysteries, and also to many primitive ceremonies of initiation.
-              The blindfold represents the “darkness,” or ignorance, of the
+              The blindfold represents the &quot;darkness,&quot; or ignorance, of the
               uninitiated. It will be removed at the appropriate time, when the
               Candidate is in the proper state of mind and qualified by his
               Obligation to receive masonic Light. Sometimes, instead of
-              blindfold, is used the term “hoodwink”, but in its original
+              blindfold, is used the term &quot;hoodwink&quot;, but in its original
               meaning and not in the modern one, which implies an attempt to
               fool, defraud or cheat.
               <br /> <br />
@@ -1679,7 +1679,7 @@ export default function Member() {
               Poorly dressed
               <br /> <br />
               The left breast is made bare so as to enable the knife or any
-              other “sharp instrument” to be applied to the Candidate’s naked
+              other &quot;sharp instrument&quot; to be applied to the Candidate’s naked
               left breast (the side of the heart) on his admission to the Lodge,
               as well as for evidence of being the male sex.
               <br />
@@ -1714,9 +1714,9 @@ export default function Member() {
               terms. Each Freemason is bound to all other Masons by a tie
               symbolized by the cable-tow. Another explanation of the cable-tow,
               even if not extremely popular, links the cable-tow to the silver
-              cord of Ecclesiastes 12:6. “Remember Him before the silver cord is
+              cord of Ecclesiastes 12:6. &quot;Remember Him before the silver cord is
               severed, and the golden bowl is broken; before the pitcher is
-              shattered at the spring, and the wheel broken at the well”. The
+              shattered at the spring, and the wheel broken at the well&quot;. The
               length of the cable-tow is also frequently referred to in the
               language of Freemasonry. There are many opinions of exactly how
               long a cable-tow really was, and we do not have yet a satisfactory
@@ -1744,11 +1744,11 @@ export default function Member() {
               world of better understanding one’s true self and purpose, from
               the profane to the initiated.
               <br /> <br />
-              If a newly initiated candidate is not to be an “Apprentice” in
+              If a newly initiated candidate is not to be an &quot;Apprentice&quot; in
               name only, he must stand ready to do the work upon his own nature.
               <br /> <br />
               Note that Freemasons should step off into the Lodge on their left
-              foot. In Latin, the word for left is “sinister”, referring to the
+              foot. In Latin, the word for left is &quot;sinister&quot;, referring to the
               ancient concept that the right is just and correct and the left is
               of the sinister and evil. Therefore, to step off on the left foot
               is to symbolically trample evil under your left foot.
@@ -1781,10 +1781,10 @@ export default function Member() {
               <br />
               As soon as the Candidate Entered Apprentice enters the Lodge, he
               receives a jab into his bare left breast from the point of a
-              dagger. The Conductor declares, “…as this is a momentary torture
+              dagger. The Conductor declares, &quot;…as this is a momentary torture
               to your flesh, so may the recollection of it prove an everlasting
               torture to your conscience should you ever attempt to reveal the
-              secrets of Freemasonry unlawfully.”
+              secrets of Freemasonry unlawfully.&quot;
               <br /> <br />
               This unusual reception of the Candidate into the lodge room is
               intended to symbolise the fact that our rituals are serious and
@@ -1815,7 +1815,7 @@ export default function Member() {
               <br /> <br />
               While circumambulating the lodge, at every corner the brethren
               must stop and then turn and set off from the left foot in the
-              correct direction. This is called “squaring the lodge”.
+              correct direction. This is called &quot;squaring the lodge&quot;.
             </span>
             <br /> <br />
             <br /> <br />
@@ -1873,7 +1873,7 @@ export default function Member() {
               respect for the V.S.L.
               <br /> <br />
               {/* page 40 */}
-              The Square is the emblem of rectitude and to “act on the square”
+              The Square is the emblem of rectitude and to &quot;act on the square&quot;
               is a familiar metaphor for fair and honest dealings with others.
               <br /> <br />
               The Compasses symbolize our intention to draw a boundary line
@@ -2420,7 +2420,7 @@ export default function Member() {
               <br /> <br />
               Circulating in the Lodge
               <br /> <br />
-              We Freemasons always “square” the Lodge room, that is we always
+              We Freemasons always &quot;square&quot; the Lodge room, that is we always
               circulate clockwise, outside of the chequered floor, stopping at
               each corner, turning right and start walking again with the left
               foot. When passing in front of the Right Worshipful Master, as a
@@ -2475,7 +2475,7 @@ export default function Member() {
                 Interacting with your brethren
               </p>
               <br />
-              Freemasonry is supposed to be a “Safe and pleasant Relaxation” or,
+              Freemasonry is supposed to be a &quot;Safe and pleasant Relaxation&quot; or,
               we can say, an interruption from the daily worries. It’s supposed
               to break your week in half and let you pause, and breathe, and
               remember to be the guy you’re supposed to be. Human touch is
@@ -2543,7 +2543,7 @@ outcome of the vote.
               <br /> <br />
               {/* page 54 */}
               However, they will be asked to attend in the company of another
-              experienced Brother who can “vouch” for them and explain (once
+              experienced Brother who can &quot;vouch&quot; for them and explain (once
               that the ceremony is ended) any parts of the ceremony that they
               have observed.
               <br /> <br />
@@ -2578,8 +2578,8 @@ outcome of the vote.
               Masonic desirability of a social dinner is as old as the
               Freemasonry we know. In 1717, when the Mother Grand Lodge was
               formed to revitalize the Lodges of London, one of the reasons
-              given was “To revive the Quarterly Communication and hold the
-              Annual Feast”.
+              given was &quot;To revive the Quarterly Communication and hold the
+              Annual Feast&quot;.
               <br /> <br />
               <div className="pt-5 justify-center grid">
                 <Image src="/Overview/Picture36.jpg" width="450" height="300" />
@@ -2691,8 +2691,8 @@ outcome of the vote.
               more like words of poetry instead of words of prose. They lead us
               to that second level of interpretation which guides us to a
               dimension not fully available to our senses. A dimension that
-              widens our level of consciousness and enables us to approach “that
-              ethereal mansion veiled from mortal eyes”. In other words, symbols
+              widens our level of consciousness and enables us to approach &quot;that
+              ethereal mansion veiled from mortal eyes&quot;. In other words, symbols
               create a junction between two realms of reality, the conscious and
               the unconscious. They are the meeting point between the microcosm
               and the macrocosm, between material and spiritual, between man and
