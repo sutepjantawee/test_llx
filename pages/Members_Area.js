@@ -146,8 +146,8 @@ export default function Member() {
                     width="150"
                     height="200"
                   />
-                  <p className=" pt-4">ISLAM</p>
-                  <p className=" pt-4">Muhammad Abdullah. Islamic Jurist</p>
+                  <div className=" pt-4">ISLAM</div>
+                  <div className=" pt-4">Muhammad Abdullah. Islamic Jurist</div>
                 </div>
                 <div className="pt-5 justify-center  w-1/2">
                   <Image alt=""
@@ -155,10 +155,10 @@ export default function Member() {
                     width="300"
                     height="200"
                   />
-                  <p className=" pt-4">CHRISTIANITY</p>
-                  <p className=" pt-4">
+                  <div className=" pt-4">CHRISTIANITY</div>
+                  <div className=" pt-4">
                     Geoffrey Fisher. Archbishop of Canterbury
-                  </p>
+                  </div>
                 </div>
               </div>
               <div className="flex justify-center pt-10">
@@ -168,8 +168,8 @@ export default function Member() {
                     width="200"
                     height="200"
                   />
-                  <p className=" pt-4">JUDAISM</p>
-                  <p className=" pt-4">Israel Brodie. Chief Rabbi</p>
+                  <div className=" pt-4">JUDAISM</div>
+                  <div className=" pt-4">Israel Brodie. Chief Rabbi</div>
                 </div>
                 <div className="pt-5 justify-center  w-1/2">
                   <Image alt=""
@@ -177,8 +177,8 @@ export default function Member() {
                     width="350"
                     height="200"
                   />
-                  <p className=" pt-4">HINDUISM</p>
-                  <p className=" pt-4">Swami Vivekananda, Monk and reformer</p>
+                  <div className=" pt-4">HINDUISM</div>
+                  <div className=" pt-4">Swami Vivekananda, Monk and reformer</div>
                 </div>
               </div>
             </div>
