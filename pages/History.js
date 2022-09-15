@@ -2,7 +2,7 @@ import Footer from "./component/footer";
 import Navbar from "./component/navbar";
 export default function History() {
   return (
-    <div className="font-serif grid">
+    <div className="font-serif grid h-auto">
       <Navbar />
       <div className="pt-32 grid mx-[30px] xl:mx-[223px] md:mx-[120px] sm:mx-[70px] ">
         <p className="text-3xl text-[24px] text-left ">History of the Lodge</p>
