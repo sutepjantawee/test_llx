@@ -456,7 +456,7 @@ export default function Member() {
                 written records. This is why the oldest lodges’ records date
                 from soon after his statutes.
                 <br />
-                One of the inevitable consequences of Schaw’s instructions was
+                One of the inevitable consequences of Schaw&apos;s instructions was
                 that lodges became fixed, permanent institutions. There were no
                 longer casual meeting when thought necessary, usually to
                 initiate a candidate or conduct lodge business, but meetings at
