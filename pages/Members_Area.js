@@ -95,11 +95,11 @@ export default function Member() {
               embarked on a journey that we hope will have a significant,
               positive imprint on your life.
               <div className="pt-5 justify-center grid">
-                <Image src="/Overview/Picture1.jpg" width="900" height="600" />
+                <Image alt="" src="/Overview/Picture1.jpg" width="900" height="600" />
               </div>
               {/* page 2 */}
               <div className="pt-5 justify-center grid">
-                <Image src="/Overview/Picture2.jpg" width="900" height="600" />
+                <Image alt="" src="/Overview/Picture2.jpg" width="900" height="600" />
               </div>
               <p className=" pt-10">
                 [A Freemasons’ Lodge must be] &quot;A safe and pleasant Relaxation
@@ -141,7 +141,7 @@ export default function Member() {
               </p>
               <div className="flex justify-center">
                 <div className="pt-5 justify-center w-1/2">
-                  <Image
+                  <Image alt=""
                     src="/Overview/Picture3.png"
                     width="150"
                     height="200"
@@ -150,7 +150,7 @@ export default function Member() {
                   <p className=" pt-4">Muhammad Abdullah. Islamic Jurist</p>
                 </div>
                 <div className="pt-5 justify-center  w-1/2">
-                  <Image
+                  <Image alt=""
                     src="/Overview/Picture4.png"
                     width="300"
                     height="200"
@@ -163,7 +163,7 @@ export default function Member() {
               </div>
               <div className="flex justify-center pt-10">
                 <div className="pt-5 justify-center w-1/2 ">
-                  <Image
+                  <Image alt=""
                     src="/Overview/Picture5.jpg"
                     width="200"
                     height="200"
@@ -172,7 +172,7 @@ export default function Member() {
                   <p className=" pt-4">Israel Brodie. Chief Rabbi</p>
                 </div>
                 <div className="pt-5 justify-center  w-1/2">
-                  <Image
+                  <Image alt=""
                     src="/Overview/Picture7.jpg"
                     width="350"
                     height="200"
@@ -444,7 +444,7 @@ export default function Member() {
                 point never envisioned by its founders.
                 <br /> <br />
                 According to our present knowledge, William Schaw (1550 – 1602),
-                the Master of Works to James VI of Scotland, may have been the
+                the Master of Works to James VI of Scotland&rdquo; may have been the
                 first non-stonemason to be initiated into a lodge. But his
                 importance mostly lies in the fact that he may as well be
                 regarded as the architect of modern Freemasonry. He wrote what
@@ -636,7 +636,7 @@ export default function Member() {
               <br /> <br />
             </p>
             <div className="pt-5 justify-center grid">
-              <Image src="/Overview/Picture8.jpg" width="900" height="600" />
+              <Image alt="" src="/Overview/Picture8.jpg" width="900" height="600" />
               <div className="pt-4 text-center text-sm">
                 Lodge of the Grand Lodge of Scotland in Edinburgh
               </div>{" "}
@@ -647,7 +647,7 @@ export default function Member() {
             </div>
             {/* page13 */}
             <div className="pt-5 justify-center grid">
-              <Image src="/Overview/Picture9.png" width="700" height="900" />
+              <Image alt="" src="/Overview/Picture9.png" width="700" height="900" />
             </div>
             <br /> <br />
             <br /> <br />
@@ -773,7 +773,7 @@ export default function Member() {
             {/* page16 */}
             <p className=" text-center pt-5 ">Right Worshipful Master</p>
             <div className="pt-5 justify-center grid">
-              <Image src="/Overview/Picture10.jpg" width="300" height="300" />
+              <Image alt="" src="/Overview/Picture10.jpg" width="300" height="300" />
             </div>
             <br />
             <p className=" pt-10">
@@ -827,7 +827,7 @@ export default function Member() {
             {/* page17 */}
             <p className=" text-center pt-5 ">Worshipful Senior Warden</p>
             <div className="pt-10 justify-center grid">
-              <Image src="/Overview/Picture11.png" width="300" height="300" />
+              <Image alt="" src="/Overview/Picture11.png" width="300" height="300" />
             </div>
             <br />
             <p className=" pt-10">
@@ -867,7 +867,7 @@ export default function Member() {
             {/* page18 */}
             <p className=" text-center pt-5 ">Worshipful Junior Warden</p>
             <div className="pt-10 justify-center grid">
-              <Image src="/Overview/Picture12.jpg" width="300" height="300" />
+              <Image alt="" src="/Overview/Picture12.jpg" width="300" height="300" />
             </div>
             <br />
             <p className=" pt-10">
@@ -897,7 +897,7 @@ export default function Member() {
             {/* page19 */}
             <p className=" text-center pt-5 ">Treasurer</p>
             <div className="pt-10 justify-center grid">
-              <Image src="/Overview/Picture13.jpg" width="130" height="200" />
+              <Image alt="" src="/Overview/Picture13.jpg" width="130" height="200" />
             </div>
             <br />
             <p className=" pt-10">
@@ -922,7 +922,7 @@ export default function Member() {
             {/* page20 */}
             <p className=" text-center pt-5 ">Secretary</p>
             <div className="pt-10 justify-center grid">
-              <Image src="/Overview/Picture14.jpg" width="200" height="200" />
+              <Image alt="" src="/Overview/Picture14.jpg" width="200" height="200" />
             </div>
             <br />
             <p className=" pt-10">
@@ -949,7 +949,7 @@ export default function Member() {
             </p>
             <p className=" text-center pt-5 ">Chaplain</p>
             <div className="pt-10 justify-center grid">
-              <Image src="/Overview/Picture15.jpg" width="200" height="200" />
+              <Image alt="" src="/Overview/Picture15.jpg" width="200" height="200" />
             </div>
             <p className=" pt-10">
               The Chaplain is seated in the South-East corner. He acts as the
@@ -966,7 +966,7 @@ export default function Member() {
             {/* page21 */}
             <p className=" text-center pt-5 ">Bible Bearer</p>
             <div className="pt-5 justify-center grid">
-              <Image src="/Overview/Picture16.jpg" width="300" height="200" />
+              <Image alt="" src="/Overview/Picture16.jpg" width="300" height="200" />
             </div>
             <p className=" pt-10">
               The Bible Bearer seats in the South-East corner. His duty is to
@@ -988,7 +988,7 @@ export default function Member() {
             </p>
             <p className=" text-center pt-5 ">Director of Ceremonies</p>
             <div className="pt-10 justify-center grid">
-              <Image src="/Overview/Picture17.jpg" width="250" height="200" />
+              <Image alt="" src="/Overview/Picture17.jpg" width="250" height="200" />
             </div>
             <p className=" pt-10">
               The Director of Ceremonies is seated in the South-East corner. He,
@@ -1007,7 +1007,7 @@ export default function Member() {
             {/* page22 */}
             <p className=" text-center pt-5 ">Almoner</p>
             <div className="pt-5 justify-center grid">
-              <Image src="/Overview/Picture18.jpg" width="250" height="200" />
+              <Image alt="" src="/Overview/Picture18.jpg" width="250" height="200" />
             </div>
             <p className=" pt-10">
               The Almoner encompasses the Freemasonry’s basic principle of
@@ -1052,7 +1052,7 @@ export default function Member() {
             {/* page23 */}
             <p className=" text-center pt-5 ">Senior Deacon</p>
             <div className="pt-10 justify-center grid">
-              <Image src="/Overview/Picture19.jpg" width="250" height="200" />
+              <Image alt="" src="/Overview/Picture19.jpg" width="250" height="200" />
             </div>
             <p className=" pt-10">
               He is seated in the North-East corner of the Lodge, at the right
@@ -1065,7 +1065,7 @@ export default function Member() {
             </p>
             <p className=" text-center pt-5 ">Junior Deacon</p>
             <div className="pt-10 justify-center grid">
-              <Image src="/Overview/Picture20.jpg" width="250" height="200" />
+              <Image alt="" src="/Overview/Picture20.jpg" width="250" height="200" />
             </div>
             <p className=" pt-10">
               The Junior Deacon is seated in the West, on the right of the
@@ -1078,7 +1078,7 @@ export default function Member() {
             {/* page 24 */}
             <p className=" text-center pt-5 ">Inner-Guard</p>
             <div className="pt-10 justify-center grid">
-              <Image src="/Overview/Picture21.jpg" width="200" height="180" />
+              <Image alt="" src="/Overview/Picture21.jpg" width="200" height="180" />
             </div>
             <p className=" pt-10">
               The Inner Guard (IG) stands within the entrance to the Lodge,
@@ -1097,7 +1097,7 @@ export default function Member() {
             </p>
             <p className=" text-center pt-5 ">Tyler</p>
             <div className="pt-5 justify-center grid">
-              <Image src="/Overview/Picture22.jpg" width="200" height="200" />
+              <Image alt="" src="/Overview/Picture22.jpg" width="200" height="200" />
             </div>
             <p className=" pt-10">
               The Tyler (to tyle is an old English word which means to cover and
@@ -1130,7 +1130,7 @@ export default function Member() {
             {/* page 25 */}
             <p className=" text-center pt-5 ">Organist</p>
             <div className="pt-10 justify-center grid">
-              <Image src="/Overview/Picture23.jpg" width="200" height="200" />
+              <Image alt="" src="/Overview/Picture23.jpg" width="200" height="200" />
             </div>
             <br />
             <p className=" pt-10">
@@ -1148,11 +1148,11 @@ export default function Member() {
             <div className="pt-5 justify-center flex gap-x-20">
               <div>
                 <p className=" text-center pt-5 pb-5">President of Stewards</p>
-                <Image src="/Overview/Picture24.jpg" width="300" height="200" />
+                <Image alt="" src="/Overview/Picture24.jpg" width="300" height="200" />
               </div>
               <div>
                 <p className=" text-center pt-5 pb-5">Steward</p>
-                <Image src="/Overview/Picture25.png" width="300" height="200" />
+                <Image alt="" src="/Overview/Picture25.png" width="300" height="200" />
               </div>
             </div>
             <p className=" pt-10">
@@ -1177,7 +1177,7 @@ export default function Member() {
             <br /> <br />
             <p className=" text-center pt-5 ">Depute Master</p>
             <div className="pt-5 justify-center grid">
-              <Image src="/Overview/Picture26.jpg" width="350" height="200" />
+              <Image alt="" src="/Overview/Picture26.jpg" width="350" height="200" />
             </div>
             <p className=" pt-10">
               The Depute Master is the Office Bearer that sits on the chair if
@@ -1189,7 +1189,7 @@ export default function Member() {
             </p>
             <p className=" text-center pt-5 ">Substitute Master</p>
             <div className="pt-5 justify-center grid">
-              <Image src="/Overview/Picture27.jpg" width="250" height="200" />
+              <Image alt="" src="/Overview/Picture27.jpg" width="250" height="200" />
             </div>
             <p className=" pt-10">
               Appointing a Brother Substitute Master is an honour given
@@ -1203,7 +1203,7 @@ export default function Member() {
             <br /> <br />
             <p className=" text-center pt-5 ">Immediate Past Master</p>
             <div className="pt-5 justify-center grid">
-              <Image src="/Overview/Picture28.jpg" width="350" height="200" />
+              <Image alt="" src="/Overview/Picture28.jpg" width="350" height="200" />
             </div>
             <p className=" pt-10">
               The Immediate Past Master is that Past Master who was in the Chair
@@ -1257,7 +1257,7 @@ export default function Member() {
             {/* page 29 */}
             <p className=" text-center pt-5 ">Ritual</p>
             <div className="pt-5 justify-center grid">
-              <Image src="/Overview/Picture29.jpg" width="300" height="400" />
+              <Image alt="" src="/Overview/Picture29.jpg" width="300" height="400" />
             </div>
             <br />
             <p className=" pt-10">
@@ -1462,7 +1462,7 @@ export default function Member() {
             <br />
             <p>Wisdom, Strength, Beauty </p>
             <div className="pt-5 justify-center grid">
-              <Image src="/Overview/Picture30.png" width="400" height="300" />
+              <Image alt="" src="/Overview/Picture30.png" width="400" height="300" />
             </div>
             <br />
             <div>
@@ -1615,7 +1615,7 @@ export default function Member() {
                     Freemasons find ritual and symbolism difficult to
                     understand, if not meaningless. Many of us have lost the
                     ability to understand that the symbol of, say, the square
-                    and the compasses is much more than an image of measuring
+                    and the compasses is much more than an image alt="" of measuring
                     instruments, that there is much more to it that meets the
                     eye.
                   </span>
@@ -1842,10 +1842,10 @@ export default function Member() {
             </span>
             <div className="flex justify-center pt-10 gap-x-6">
               <div className="pt-5 justify-center ">
-                <Image src="/Overview/Picture31.jpg" width="500" height="300" />
+                <Image alt="" src="/Overview/Picture31.jpg" width="500" height="300" />
               </div>
               <div className="pt-5 justify-center  ">
-                <Image src="/Overview/Picture32.jpg" width="250" height="300" />
+                <Image alt="" src="/Overview/Picture32.jpg" width="250" height="300" />
               </div>
             </div>
             <br /> <br />
@@ -2132,14 +2132,14 @@ export default function Member() {
               and white one which exalt the elements it contains.
               <br /> <br />
               <div className="pt-5 justify-center grid">
-                <Image src="/Overview/Picture33.png" width="400" height="600" />
+                <Image alt="" src="/Overview/Picture33.png" width="400" height="600" />
               </div>
             </span>
             <br /> <br />
             <br /> <br />
             {/* page 45 */}
             <div className="pt-5 justify-center grid">
-              <Image src="/Overview/Picture34.jpg" width="500" height="700" />
+              <Image alt="" src="/Overview/Picture34.jpg" width="500" height="700" />
             </div>
             <br /> <br />
             <br /> <br />
@@ -2538,7 +2538,7 @@ outcome of the vote.
               degree which they may have missed during their own Initiation and,
               after all, better understand the ritual.
               <div className="pt-5 justify-center grid">
-                <Image src="/Overview/Picture35.jpg" width="500" height="400" />
+                <Image alt="" src="/Overview/Picture35.jpg" width="500" height="400" />
               </div>
               <br /> <br />
               {/* page 54 */}
@@ -2582,11 +2582,11 @@ outcome of the vote.
               Annual Feast&quot;.
               <br /> <br />
               <div className="pt-5 justify-center grid">
-                <Image src="/Overview/Picture36.jpg" width="450" height="300" />
+                <Image alt="" src="/Overview/Picture36.jpg" width="450" height="300" />
               </div>
               <br /> 
               <div className="pt-5 justify-center grid">
-                <Image src="/Overview/Picture37.jpg" width="800" height="400" />
+                <Image alt="" src="/Overview/Picture37.jpg" width="800" height="400" />
               </div>
               <br />
               <br />
@@ -2714,7 +2714,7 @@ outcome of the vote.
               while you are in a state of calmness. And once in that state, you
               can establish a link with the Whole. <br /> <br />
               <div className="pt-5 justify-center grid">
-                <Image src="/Overview/Picture38.png" width="200" height="200" />
+                <Image alt="" src="/Overview/Picture38.png" width="200" height="200" />
               </div>
               <br /> <br />
               <br /> <br />
