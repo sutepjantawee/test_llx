@@ -6,7 +6,7 @@ export default function Humor() {
     <div className="font-serif">
       <Navbar />
       <div className="pt-32  xl:mx-[223px] md:mx-[100px] sm:mx-[70px] fold:mx-[20px] mx-[10px] pb-16">
-        <p className="text-3xl">Humor Corner</p>
+        <p className="text-[24px]">Humor Corner</p>
         <div className="grid justify-center pt-5">
           <div className="pt-5">
             <Image alt="" src="/Humor1.jpeg" width="700" height="600" />
