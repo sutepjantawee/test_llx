@@ -14,9 +14,12 @@ export default function History() {
           lodge was reopened again in Bangkok in 2000 and has been successfully
           operating ever since.
           <br />
+          <br />
           Grand Lodge of Scotland https://www.grandlodgescotland.com/
           <br />
+          <br />
           Masonic magazine “The Square” https://www.thesquaremagazine.com/
+          <br />
           <br />
           Masonic articles http://www.freemasons-freemasonry.com/
         </div>

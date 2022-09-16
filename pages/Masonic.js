@@ -11,6 +11,7 @@ export default function Masonic() {
           All Masonic Visitors from Grand Lodges in amity with the Grand Lodge
           of Scotland are welcome.
           <br />
+          <br />
           Please take note of our meetings in our Agenda and contact the Lodge
           Secretary at LDxxx@gmail.com
         </div>
