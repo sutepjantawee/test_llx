@@ -5,15 +5,15 @@ export default function footer() {
    <div className="grid justify-items-center h-[100px]">
     <div className=" grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 justify-items-center gap-y-16 py-5  bg-[#1E2643] text-white  w-full ">
       <div className="items-center flex-col flex ">
-        <div>
+        {/* <div>
           <Image alt="" src="/llx-logo.png" width={100} height={95} />
-        </div>
+        </div> */}
 
         <p className="text-sm mt-6 mx-1">
-          2022© Lodge Lane Xang 1632 SC.
+        © Lodge Lane Xang 1632 SC
         </p>
       </div>
-      <div className="items-center flex-col flex">
+      {/* <div className="items-center flex-col flex">
         <p className="text-xl"> About Freemasonry</p>
         <p className="text-sm  mt-6 ">
           Information
@@ -26,7 +26,7 @@ export default function footer() {
           How to reach us
           <br /> <br />
         </p>
-      </div>
+      </div> */}
       
       {/*
       <div className="w-fll h-0.5 bg-PopularAssets pt-10"></div>

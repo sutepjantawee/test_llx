@@ -8,7 +8,7 @@ export default function Example() {
     <div className="font-serif">
       <Navbar />
 
-      <div className=" grid place-items-center h-[739px]">
+      <div className=" grid place-items-center  h-[750px]">
         <from className="grid ">
           <div className="text-center text-3xl font-extrabold text-gray-900 pb-10">
           Welcome to the Journey
