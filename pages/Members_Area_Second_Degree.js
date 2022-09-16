@@ -248,10 +248,10 @@ export default function Member() {
                 The Plumb Rule
                 <br /> <br />
                 The plumb rule, as a working tool, tests perpendiculars. If a
-                wall isn't vertical, it will not stand long. Therefore, in the
+                wall isn&apos;t vertical, it will not stand long. Therefore, in the
                 moral sense, the Plumb Rule is a symbol of uprightness of
                 conduct in life and justice. It is often associated with the
-                plumb line which God's standard of divine righteousness [Amos
+                plumb line which God&apos;s standard of divine righteousness [Amos
                 7:7-15] through which, like a sort of Jacob’s Ladder, links the
                 rightful men with the Divinity. The plum rule is therefore the
                 symbol of an upright life and of the conscience by which each
@@ -284,7 +284,7 @@ export default function Member() {
                 degree. For speculative Masons, the Square defines the
                 relationship between uprightness of conduct (Plumb Rule –
                 vertical) and equality (Level – horizontal. This relationship
-                dwells in a man's heart and should guide us in all our
+                dwells in a man&apos;s heart and should guide us in all our
                 transactions with our fellow man. Not surprisingly “Acting on
                 the Square” with someone means giving him/her an honest deal, a
                 square deal, and when we say “part on the Square” we mean that
