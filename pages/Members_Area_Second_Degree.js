@@ -395,7 +395,7 @@ export default function Member() {
               mystical number and hence it symbolised the mixed conditions of
               order and disorder, happiness and misfortune, life and death, male
               and female and so on. The geometrical symbol of five is the
-              pentagram and the emblem of Pythagoras' fraternity was the
+              pentagram and the emblem of Pythagoras&apos; fraternity was the
               fivepointed star. We will find again this number in the third
               degree. <br /> <br />
               The Seven Steps refers to the Seven Liberal Arts and Sciences
@@ -591,7 +591,7 @@ export default function Member() {
               fact that numbers allude to the Order which lays in the cosmic and
               natural laws of the Creation. Those same laws that are learned by
               climbing the steps of the winding staircase. <br /> <br />
-              Pythagorean’s number philosophy, Golden Mean, Plato's work,
+              Pythagorean’s number philosophy, Golden Mean, Plato&apos;s work,
               Neoplatonism, Qabalistic gematria, and other similar studies, are
               all ways, based by numbers, meant to discover the Order of the
               Nature which is synonym of the Masonic use of the term Geometry
