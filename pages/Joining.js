@@ -10,7 +10,7 @@ export default function Example() {
 
       <div className=" grid place-items-center  h-[750px]">
         <from className="grid ">
-          <div className="text-center text-3xl font-extrabold text-gray-900 pb-10">
+          <div className="text-center text-[24px] font-extrabold text-gray-900 pb-10">
           Welcome to the Journey
           </div>
           <div className="text-xl pb-[10px]"> Name</div>

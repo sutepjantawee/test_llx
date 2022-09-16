@@ -6,7 +6,7 @@ export default function Agenda() {
     <div className="font-serif">
       <Navbar />
       <div className="pt-32  xl:mx-[223px] md:mx-[100px] sm:mx-[70px] fold:mx-[20px] mx-[10px] pb-16">
-        <p className="text-3xl">Agenda Activities</p>
+        <p className="text-[24px]">Agenda Activities</p>
         <p className="text-xl pt-8 ml-6">Some Agenda</p>
         <p className=" ml-6 pt-5">
           The principle idea of Freemasonry as a fraternal organization is to

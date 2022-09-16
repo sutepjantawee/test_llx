@@ -20,7 +20,7 @@ export default function Member() {
       <div className=" grid place-items-center text-center h-[750px]">
         
         <from>
-        <div className="text-3xl pb-[48px]"> Password</div>
+        <div className="text-[24px] pb-[48px] font-extrabold"> Password</div>
           <input
             type="password"
             name="password"

@@ -49,10 +49,9 @@ export default function Bot() {
   return (
     <div className="font-serif">
       <Navbar />
-      <div className="pt-32 pl-10">
-        <p className="text-3xl">News </p>
-      </div>
-      <div className="max-w-2xl mx-auto pb-16 pt-5 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
+      
+      <div className="max-w-2xl mx-auto pb-16  px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
+      <p className="text-[24px] pt-10 pb-5">News </p>
         <div className="mt-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-3 xl:gap-x-8">
           {products.map((product) => (
             <div key={product.id} className="group relative ">
