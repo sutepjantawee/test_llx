@@ -11,7 +11,12 @@ export default function Member() {
   const handleSubmit = () => {
     if (password === "llx") {
       router.replace("/Members_Area");
+    } else if (password === "2"){
+      router.replace("/Members_Area_Second_Degree");
+    }else if (password === "3"){
+      router.replace("/Members_Area_Third_Degree");
     }
+
   };
 
   return (
@@ -28,7 +33,7 @@ export default function Member() {
             className="focus:ring-indigo-500 focus:border-indigo-500 block rounded-md bg-[#D9D9D9]         
           border-[#767676] border-2 w-[317px] h-[56px] text-center text-3xl"
             onChange={(e) => setPassword(e.target.value)}
-            
+
           />
           <button
             type="submit"
