@@ -13,7 +13,7 @@ export default function Member() {
         />
       </div>
 
-      <div className="pt-[20px] pl-6 flex justify-center">
+      <div className="pt-[20px] pl-3 pr-3 flex justify-center">
         <div className="grid lg:grid-cols-5 grid-cols-1 w-full">
           <div className=" w-full hidden lg:block">
             Introduction 1st Degree
